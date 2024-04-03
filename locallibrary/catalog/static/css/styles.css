@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  
 }
 
 .sidebar-nav {
@@ -22,5 +22,9 @@ body {
 }
 
 .nav-item {
-  background-color: blue;
+  
+}
+
+#sad{
+  background-image: url("sad10doctor.gif");
 }
