@@ -1,0 +1,30 @@
+body {
+  
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+#logout-form {
+  display: inline;
+}
+
+#logout-form button {
+  padding: 0;
+  margin: 0;
+}
+
+#navbar-spacing {
+  padding: 10px;
+}
+
+.nav-item {
+  
+}
+
+#sad{
+  background-image: url("sad10doctor.gif");
+}
